@@ -11,7 +11,7 @@ Currently trying to learn more about Frontend technologies.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camer0nluo&count_private=true&layout=compact&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camer0nluo&layout=compact&show_icons=true&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Cameron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cambrownie)](https://github.com/anuraghazra/github-readme-stats)
 
 
