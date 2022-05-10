@@ -11,9 +11,8 @@ Currently trying to learn more about Frontend technologies.
 
 
 
-[![Top Langs](https://github-readme-stats-camer0nluo.vercel.app/api/top-langs/?username=camer0nluo&show_icons=true&langs_count=8&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Cameron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cambrownie)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
 - Email : camer.onluok@gmail.com
