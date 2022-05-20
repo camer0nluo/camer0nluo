@@ -12,9 +12,9 @@ Currently trying to learn more about Frontend technologies.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-391%20Thousand%20lines%20of%20code-blue)
 
@@ -47,18 +47,18 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               9 hrs 12 mins       ████████████████████░░░░░   81.0% 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.24% 
-XML                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43% 
-Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
+Python                   12 hrs 49 mins      █████████████░░░░░░░░░░░░   53.46% 
+JavaScript               9 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   38.42% 
+JSON                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
+XML                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 
 🔥 Editors: 
-VS Code                  10 hrs 35 mins      ███████████████████████░░   93.09% 
-PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.91%
+PyCharm                  12 hrs 20 mins      ████████████░░░░░░░░░░░░░   51.49% 
+VS Code                  11 hrs 37 mins      ████████████░░░░░░░░░░░░░   48.51%
 
 💻 Operating System: 
-Mac                      11 hrs 22 mins      █████████████████████████   100.0%
+Mac                      23 hrs 58 mins      █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +79,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/05/2022 18:54:28 UTC
+ Last Updated on 20/05/2022 02:04:58 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
