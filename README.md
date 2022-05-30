@@ -12,7 +12,7 @@ Currently trying to learn more about Frontend technologies.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
@@ -77,7 +77,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/05/2022 18:48:08 UTC
+ Last Updated on 30/05/2022 18:49:10 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
