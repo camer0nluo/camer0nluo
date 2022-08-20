@@ -14,7 +14,7 @@ Currently trying to learn more about Frontend technologies.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-412%20Thousand%20lines%20of%20code-blue)
 
@@ -47,17 +47,17 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Rust                     22 mins             █████████████████░░░░░░░░   67.89% 
-HTML                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   26.76% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+Rust                     11 mins             ██████████████████░░░░░░░   74.83% 
+HTML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+VS Code                  15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.0%
+Mac                      15 mins             █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +78,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 18:51:19 UTC
+ Last Updated on 20/08/2022 18:46:30 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
