@@ -12,55 +12,11 @@ Currently trying to learn more about Frontend technologies.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    134 commits    █████████████░░░░░░░░░░░░   52.55% 
-🌆 Daytime    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-🌃 Evening    66 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88% 
-🌙 Night      45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       43 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
-Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
-Wednesday    55 commits     █████░░░░░░░░░░░░░░░░░░░░   21.57% 
-Thursday     17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Friday       56 commits     █████░░░░░░░░░░░░░░░░░░░░   21.96% 
-Saturday     34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Sunday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-JavaScript               1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   41.97% 
-TypeScript               1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   40.1% 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69%
-
-🔥 Editors: 
-VS Code                  3 hrs 57 mins       ████████████████████████░   96.06% 
-PyCharm                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.94%
-
-💻 Operating System: 
-Mac                      4 hrs 7 mins        █████████████████████████   100.0%
-
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -79,7 +35,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:50:02 UTC
+ Last Updated on 04/09/2022 18:46:46 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
