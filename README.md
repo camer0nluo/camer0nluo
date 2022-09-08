@@ -12,9 +12,9 @@ Currently trying to learn more about Frontend technologies.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418%20Thousand%20lines%20of%20code-blue)
 
@@ -47,18 +47,18 @@ Sunday       28 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   1 hr 19 mins        ███████████░░░░░░░░░░░░░░   44.18% 
-JavaScript               45 mins             ██████░░░░░░░░░░░░░░░░░░░   25.21% 
-Text                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.99%
+Python                   4 hrs 25 mins       ████████████████░░░░░░░░░   64.5% 
+JavaScript               1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
+HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.16%
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       ██████████████████░░░░░░░   75.12% 
-PyCharm                  44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.88%
+VS Code                  3 hrs 39 mins       █████████████░░░░░░░░░░░░   53.3% 
+PyCharm                  3 hrs 12 mins       ███████████░░░░░░░░░░░░░░   46.7%
 
 💻 Operating System: 
-Mac                      2 hrs 59 mins       █████████████████████████   100.0%
+Mac                      6 hrs 51 mins       █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +79,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2022 18:52:35 UTC
+ Last Updated on 08/09/2022 18:53:17 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
