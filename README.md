@@ -14,7 +14,7 @@ Currently trying to learn more about Frontend technologies.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418%20Thousand%20lines%20of%20code-blue)
 
@@ -47,17 +47,17 @@ Sunday       28 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               5 hrs 26 mins       ██████████████████░░░░░░░   72.78% 
-HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
-PHP                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
+JavaScript               5 hrs 26 mins       ██████████████████░░░░░░░   73.67% 
+HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
+TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
+PHP                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
 
 🔥 Editors: 
-VS Code                  7 hrs 29 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 23 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      7 hrs 29 mins       █████████████████████████   100.0%
+Mac                      7 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +78,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/09/2022 18:51:27 UTC
+ Last Updated on 18/09/2022 18:53:47 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
