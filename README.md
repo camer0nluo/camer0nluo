@@ -12,7 +12,7 @@ Currently trying to learn more about Frontend technologies.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,17 +47,17 @@ Sunday       28 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               8 hrs 37 mins       █████████████████░░░░░░░░   71.15% 
-HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
+JavaScript               8 hrs 38 mins       █████████████████░░░░░░░░   71.11% 
+HTML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
 PHP                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
 JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62%
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
 
 🔥 Editors: 
-VS Code                  12 hrs 7 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 8 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      12 hrs 7 mins       █████████████████████████   100.0%
+Mac                      12 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +78,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2022 18:53:06 UTC
+ Last Updated on 03/10/2022 18:59:51 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
