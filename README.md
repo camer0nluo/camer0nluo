@@ -12,9 +12,9 @@ Currently trying to learn more about Frontend technologies.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-495%20Thousand%20lines%20of%20code-blue)
 
@@ -47,18 +47,18 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               5 hrs 54 mins       ███████████████░░░░░░░░░░   62.65% 
-TypeScript               2 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.34% 
-PHP                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54% 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
-GitIgnore file           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
+JavaScript               6 hrs 13 mins       ████████████████░░░░░░░░░   66.99% 
+TypeScript               2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.8% 
+PHP                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
+GitIgnore file           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
 
 🔥 Editors: 
-VS Code                  9 hrs 11 mins       ████████████████████████░   97.45% 
-PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55%
+VS Code                  9 hrs 3 mins        ████████████████████████░   97.42% 
+PyCharm                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
 
 💻 Operating System: 
-Mac                      9 hrs 26 mins       █████████████████████████   100.0%
+Mac                      9 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +79,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 19:06:16 UTC
+ Last Updated on 25/10/2022 19:23:25 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
