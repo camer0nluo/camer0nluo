@@ -9,7 +9,7 @@ I'm Cameron, a developer from Taiwan.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,15 +42,17 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   5 hrs 6 mins        ██████████████████████░░░   88.59 % 
-Text                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Python                   4 hrs 36 mins       ███████████████████████░░   91.37 % 
+Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 31 mins       ████████████████████████░   95.86 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+PyCharm                  4 hrs 48 mins       ████████████████████████░   95.06 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 💻 Operating System: 
-Mac                      5 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,7 +72,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2023 18:33:53 UTC
+ Last Updated on 21/04/2023 18:33:48 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
