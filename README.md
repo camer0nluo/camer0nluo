@@ -42,14 +42,13 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Text                     23 mins             ████████████████░░░░░░░░░   63.06 % 
-Python                   13 mins             █████████░░░░░░░░░░░░░░░░   36.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -69,7 +68,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2023 18:33:36 UTC
+ Last Updated on 29/04/2023 18:33:47 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
