@@ -9,7 +9,7 @@ I'm Cameron, a developer from Taiwan.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,11 +42,11 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-CoffeeScript             2 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.04 % 
-JavaScript               1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-CSS                      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-PHP                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JavaScript               2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
+CoffeeScript             1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+CSS                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
 VS Code                  5 hrs 36 mins       █████████████████████████   100.00 % 
@@ -72,7 +72,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2023 18:34:09 UTC
+ Last Updated on 16/05/2023 18:34:08 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
