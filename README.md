@@ -9,7 +9,7 @@ I'm Cameron, a developer from Taiwan.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,7 +42,7 @@ Sunday                   118 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               11 hrs 36 mins      █████████████████░░░░░░░░   67.53 % 
+JavaScript               11 hrs 36 mins      █████████████████░░░░░░░░   67.54 % 
 TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 SCSS                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 Blade Template           1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
@@ -73,7 +73,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/camer0nluo/camer0nluo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2023 18:33:45 UTC
+ Last Updated on 12/06/2023 18:33:59 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
