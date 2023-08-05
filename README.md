@@ -1,7 +1,6 @@
-### Hi there 👋
+## About Cameron 
 
-I'm Cameron, a developer from Taiwan.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&multiline=true&width=435&height=75&lines=Hi!+I'm+Cameron;A+Software+Engineer+based+in+Seattle.)](https://git.io/typing-svg)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
