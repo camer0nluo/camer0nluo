@@ -41,7 +41,7 @@ const cameron = {
 };
 ```
 
-P.S. The stats below do not inclde my work computer/ work related github account.
+P.S. The stats below do not include my work computer/ work related github account.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%2030%20mins-blue)
