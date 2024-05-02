@@ -1,4 +1,4 @@
-## About Cameron 
+## About Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&multiline=true&width=435&height=75&lines=Hi!+I'm+Cameron;A+Software+Engineer+based+in+Seattle.)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@
 ### Feel free to connect with me!
 <a href="https://www.linkedin.com/in/cameronluo/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>&nbsp;&nbsp;
+ </a>
 
 #### A little more about me...  
 
@@ -47,3 +47,6 @@ const cameron = {
 ```
 #### 📫 How to reach me:
 Email : camer.onluok@gmail.com
+
+###
+[![wakatime](https://wakatime.com/badge/user/e2c6f6d1-df1a-48e6-b529-d87e5e1f1e70.svg)](https://wakatime.com/@e2c6f6d1-df1a-48e6-b529-d87e5e1f1e70)
